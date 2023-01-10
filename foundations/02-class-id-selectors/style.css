@@ -1,0 +1,17 @@
+.class1, .class3, .class5 {
+    background-color: lightpink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#class2 {
+    font-size: 36px;
+    color: blue;
+}
+.class3 {
+    font-size: 24px;
+}
+#class4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+}
